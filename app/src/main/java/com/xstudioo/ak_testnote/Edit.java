@@ -112,6 +112,7 @@ public class Edit extends AppCompatActivity {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             dialogInterface.cancel();
+                            goToMain();
                         }
                     });
                     AlertDialog alert = a_builder.create();
