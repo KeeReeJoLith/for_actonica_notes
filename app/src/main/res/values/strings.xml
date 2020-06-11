@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note Me</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="enter_details">Заметка...</string>
+    <string name="enter_title">Заголовок...</string>
+    <string name="sample">Образец текста</string>
+    <string name="sample_title">Образец заголовка</string>
+    <string name="sample_date">00/00/2020</string>
+    <string name="sample_time">__:__</string>
+    <string name="note_saved">Заметка сохранена</string>
+
+
+</resources>
